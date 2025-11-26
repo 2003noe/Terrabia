@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* @import "flyonui/dist/flyonui.css"; */
 
 * {
   margin: 0;
